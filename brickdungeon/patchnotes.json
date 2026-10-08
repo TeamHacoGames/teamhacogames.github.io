@@ -1,0 +1,72 @@
+{
+  "notes": [
+    {
+      "version": "1.0.20",
+      "version_code": 22,
+      "date": "2026-10-09",
+      "items_ko": [
+        "클라우드 저장 추가 — Google Play 게임즈 계정에 진행도(별조각·강화·업적·도감)가 저장되어 기기를 바꾸거나 다시 설치해도 이어서 플레이할 수 있어요. 로비의 '클라우드' 버튼에서 지금 저장·불러오기 가능",
+        "업적 화면에 진행도 (n/목표)와 전체 달성률 그래프 표시",
+        "돌 골렘을 쓰러뜨리면 골렘이 소환한 방패 벽돌도 함께 무너져요",
+        "패치노트 추가 — 로비 오른쪽 위 '패치노트' 버튼",
+        "최소 지원 버전이 Android 7.0으로 변경되었어요"
+      ],
+      "items_en": [
+        "Cloud Save — your progress (star shards, upgrades, achievements, codex) is saved to your Google Play Games account, so you can continue on a new device or after reinstalling. Save or load anytime from the 'Cloud' button in the lobby",
+        "Achievements now show progress (n/goal) and an overall completion bar",
+        "When the Stone Golem falls, the shield bricks it summoned crumble with it",
+        "Added Patch Notes — 'Patch Notes' button at the top right of the lobby",
+        "Minimum supported version is now Android 7.0"
+      ]
+    },
+    {
+      "version": "1.0.17",
+      "version_code": 19,
+      "date": "2026-10-08",
+      "items_ko": [
+        "광고 제거 구매 시 이어하기·별조각 2배·다시 뽑기·일일 상자·상점 골드 보상을 횟수 제한 없이 광고 없이 바로 받아요"
+      ],
+      "items_en": [
+        "With Remove Ads, all ad rewards (revive, double shards, reroll, daily chest, shop gold) are granted instantly with no daily limit"
+      ]
+    },
+    {
+      "version": "1.0.16",
+      "version_code": 18,
+      "date": "2026-10-08",
+      "items_ko": [
+        "보스는 반드시 처치해야 클리어 — 데드라인에 닿아도 사라지지 않고 HP 피해를 줘요",
+        "발사대 5종이 귀여운 블록 스타일로 새 단장",
+        "업적 '모두 받기' 버튼 추가",
+        "강화 화면에 항목별 아이콘 추가",
+        "게임 오버 화면에 '강화하러 가기' 버튼 추가",
+        "효과 이름 변경: 자철 → 자석공",
+        "성장 효과가 레벨업 직후 바로 반영되지 않던 문제 수정",
+        "돌 골렘 주먹 등 일부 몬스터 그림이 잘려 보이던 문제 수정"
+      ],
+      "items_en": [
+        "Bosses must now be defeated to clear the floor — they no longer vanish at the deadline and deal HP damage instead",
+        "All 5 launchers redesigned in a cute block style",
+        "Added 'Claim All' to Achievements",
+        "Added icons to the Upgrades screen",
+        "Added a 'Go to Upgrades' button on the Game Over screen",
+        "Effect renamed: Ferro → Magnet Ball",
+        "Fixed Growth not applying right after leveling up",
+        "Fixed some monster sprites (e.g. Stone Golem's fist) being cut off"
+      ]
+    },
+    {
+      "version": "1.0.14",
+      "version_code": 16,
+      "date": "2026-10-08",
+      "items_ko": [
+        "브릭 던전 정식 출시!",
+        "게임 시작 시 공지사항 표시 (오늘 하루 보지 않기)"
+      ],
+      "items_en": [
+        "Brick Dungeon is officially out!",
+        "In-game notices on launch (with 'Don't show today')"
+      ]
+    }
+  ]
+}
