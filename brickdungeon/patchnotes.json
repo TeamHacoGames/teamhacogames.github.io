@@ -1,6 +1,17 @@
 {
   "notes": [
     {
+      "version": "1.0.21",
+      "version_code": 23,
+      "date": "2026-10-10",
+      "items_ko": [
+        "새 버전이 나오면 게임 시작 시 업데이트 안내가 표시돼요 (업데이트 버튼으로 바로 스토어 이동)"
+      ],
+      "items_en": [
+        "You'll now be notified on launch when a new version is available (Update button opens the store)"
+      ]
+    },
+    {
       "version": "1.0.20",
       "version_code": 22,
       "date": "2026-10-09",
