@@ -1,6 +1,29 @@
 {
   "notes": [
     {
+      "version": "1.0.25",
+      "version_code": 27,
+      "date": "2026-10-13",
+      "items_ko": [
+        "심층 스킬 트리 추가 — 심층 각 단계를 처음 클리어하면 스킬 포인트 1개! 로비의 '◎ 스킬'에서 파괴·생존·빌드 3갈래 스킬 12종을 배울 수 있어요 (모든 런에 적용, ★200으로 초기화 가능)",
+        "효과 보유 제한(4종)이 없어졌어요 — 이제 원하는 만큼 효과를 섞어 보세요",
+        "심층 난이도 규칙 개편 (벽돌 내구도 +20%, 최대 HP -3, 상점 가격 +20%, 조준 가이드 절반, 5턴마다 추가 하강 등) — 심층 별조각 보너스는 스킬 포인트로 바뀌었어요",
+        "로비에 심층 안내 추가 — '?' 버튼으로 단계별 규칙을 확인할 수 있어요",
+        "이어하기가 있을 때 새 게임·일일 챌린지를 시작하면 덮어쓰기 확인을 물어봐요",
+        "뒤로가기로 종료한 뒤 다시 실행하면 검은 화면에서 멈추던 문제를 고쳤어요",
+        "화면이 긴 기기에서 스킬 창 양옆이 잘리던 문제를 고쳤어요"
+      ],
+      "items_en": [
+        "New Depth Skill Tree — earn 1 skill point the first time you clear each Depth level. Learn 12 skills across Destruction, Survival and Build from '◎ Skills' in the lobby (applies to every run, reset for ★200)",
+        "The 4-effect limit is gone — mix as many effects as you like",
+        "Depth difficulty rules reworked (brick HP +20%, max HP -3, shop prices +20%, half-length aim guide, extra row drop every 5 turns, and more) — the Depth star shard bonus is replaced by skill points",
+        "Added a Depth guide to the lobby — tap '?' to see the rules for each level",
+        "You're now asked to confirm before a new game or Daily Challenge overwrites your saved run",
+        "Fixed a black screen when relaunching after exiting with the Back button",
+        "Fixed the skill window being cut off on tall screens"
+      ]
+    },
+    {
       "version": "1.0.23",
       "version_code": 25,
       "date": "2026-10-13",
