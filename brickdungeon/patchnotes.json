@@ -1,6 +1,25 @@
 {
   "notes": [
     {
+      "version": "1.0.23",
+      "version_code": 25,
+      "date": "2026-10-13",
+      "items_ko": [
+        "처음 플레이할 때 손가락 애니메이션으로 조작 방법을 알려줘요",
+        "노치·펀치홀 카메라가 있는 폰에서 화면 위쪽이 가려지던 문제를 고쳤어요",
+        "도감에 새 항목이 추가되면 도감 버튼에 빨간 점과 NEW 표시가 생겨요",
+        "이동 벽돌 새 디자인 — 좌우로 까딱이다가 이동할 때 미끄러지듯 움직여요",
+        "발사대가 숨 쉬듯 들썩이고 가끔 눈을 깜빡여요"
+      ],
+      "items_en": [
+        "An animated hand shows you how to aim on your first play",
+        "Fixed the top of the screen being hidden on phones with notches or punch-hole cameras",
+        "New Codex entries now show a red dot and a NEW tag",
+        "New Mover brick design — it wiggles side to side and slides when it moves",
+        "Launchers now gently breathe and blink"
+      ]
+    },
+    {
       "version": "1.0.21",
       "version_code": 23,
       "date": "2026-10-10",

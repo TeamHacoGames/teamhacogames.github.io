@@ -1,13 +1,13 @@
 {
   "enabled": true,
-  "id": "2026-10-12-update-1.0.21",
+  "id": "2026-10-13-update-1.0.23",
   "title_ko": "새 버전이 나왔어요!",
-  "body_ko": "브릭 던전 새 버전이 나왔습니다.\n\n• 클라우드 저장 — 기기를 바꾸거나 다시 설치해도 진행도가 그대로!\n• 업적 진행도·달성률 표시\n• 돌 골렘을 쓰러뜨리면 방패 벽돌도 함께 무너져요\n• 패치노트·업데이트 안내 추가\n\n아래 '자세히 보기'를 눌러 스토어에서 업데이트해 주세요.",
+  "body_ko": "브릭 던전 새 버전이 나왔습니다.\n\n• 클라우드 저장 — 기기를 바꾸거나 다시 설치해도 진행도가 그대로!\n• 처음 하는 분을 위한 조작 안내 애니메이션\n• 노치폰 화면 가림 수정, 도감 새 항목 알림\n• 이동 벽돌·발사대 새 모션\n\n아래 '자세히 보기'를 눌러 스토어에서 업데이트해 주세요.",
   "title_en": "A new version is available!",
-  "body_en": "A new version of Brick Dungeon is out.\n\n• Cloud Save — keep your progress on a new device or after reinstalling\n• Achievement progress & completion bar\n• Shields crumble when the Stone Golem falls\n• Patch notes & update alerts\n\nTap 'More' below to update on the store.",
+  "body_en": "A new version of Brick Dungeon is out.\n\n• Cloud Save — keep your progress on a new device or after reinstalling\n• Animated controls tutorial for new players\n• Notch screen fix and Codex new-entry alerts\n• New Mover brick and launcher animations\n\nTap 'More' below to update on the store.",
   "url": "https://play.google.com/store/apps/details?id=com.teamhaco.brickdungeon",
   "min_version_code": 0,
-  "max_version_code": 22,
+  "max_version_code": 24,
   "current": {
     "enabled": true,
     "id": "2026-10-07-balance",
