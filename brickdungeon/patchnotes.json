@@ -1,6 +1,27 @@
 {
   "notes": [
     {
+      "version": "1.0.26",
+      "version_code": 28,
+      "date": "2026-10-14",
+      "items_ko": [
+        "효과 6종 개편 — 충격파·감전·화상·폭발·번개·메아리가 맞을 때마다 스택이 쌓이고, 벽돌이 부서질 때 스택만큼 강한 피해를 줘요. 후반에도 든든해졌어요",
+        "폭발과 번개는 이제 어떤 방법으로 벽돌이 부서져도 터져서 연쇄 폭발이 일어나요",
+        "새 상태 아이콘 추가 — 진동(충격파)·폭약(폭발)·축전(번개)",
+        "상점 개편 — 갈림길에서 고르는 대신 각 층 5턴째가 끝나면 자동으로 상점에 들어가요 (보스층은 5턴마다)",
+        "상점 가격이 층이 오를수록 올라가고, 상점 광고 골드도 층에 따라 늘어나요",
+        "몬스터 체력이 전체적으로 조금 올라갔어요 (높은 층일수록 더)"
+      ],
+      "items_en": [
+        "Six effects reworked — Shockwave, Static, Burn, Explosion, Lightning and Echo now build stacks on every hit and unleash damage based on those stacks. Much stronger in the late game",
+        "Explosion and Lightning now trigger no matter how a brick is destroyed, so chain reactions can happen",
+        "New status icons — Shockwave, Powder (Explosion) and Charge (Lightning)",
+        "Shop rework — instead of picking it at the crossroads, you now enter the shop automatically after turn 5 of each floor (every 5 turns on boss floors)",
+        "Shop prices rise with each floor, and the shop's ad gold reward grows with the floor too",
+        "Monsters have slightly more HP overall (more on higher floors)"
+      ]
+    },
+    {
       "version": "1.0.25",
       "version_code": 27,
       "date": "2026-10-13",

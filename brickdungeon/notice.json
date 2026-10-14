@@ -1,13 +1,13 @@
 {
   "enabled": true,
-  "id": "2026-10-13-update-1.0.25",
+  "id": "2026-10-14-update-1.0.26",
   "title_ko": "새 버전이 나왔어요!",
-  "body_ko": "브릭 던전 새 버전이 나왔습니다.\n\n• 심층 스킬 트리 — 심층 첫 클리어마다 스킬 포인트!\n• 효과 보유 제한 폐지 — 원하는 만큼 효과를 섞어 보세요\n• 심층 난이도 규칙 개편과 심층 안내\n• 클라우드 저장, 조작 안내, 노치폰 화면 수정 등\n\n아래 '자세히 보기'를 눌러 스토어에서 업데이트해 주세요.",
+  "body_ko": "브릭 던전 새 버전이 나왔습니다.\n\n• 효과 6종 개편 — 스택이 쌓여 부서질 때 강한 피해!\n• 상점 개편 — 각 층 5턴마다 자동 입장\n• 심층 스킬 트리, 효과 보유 제한 폐지\n• 클라우드 저장, 조작 안내 등\n\n아래 '자세히 보기'를 눌러 스토어에서 업데이트해 주세요.",
   "title_en": "A new version is available!",
-  "body_en": "A new version of Brick Dungeon is out.\n\n• Depth Skill Tree — earn a skill point on each first Depth clear!\n• No more effect limit — mix as many effects as you like\n• Reworked Depth rules and a new Depth guide\n• Cloud Save, controls tutorial, notch screen fix and more\n\nTap 'More' below to update on the store.",
+  "body_en": "A new version of Brick Dungeon is out.\n\n• Six effects reworked — stacks build up and burst on destruction!\n• Shop rework — auto-enter every 5 turns on each floor\n• Depth Skill Tree and no more effect limit\n• Cloud Save, controls tutorial and more\n\nTap 'More' below to update on the store.",
   "url": "https://play.google.com/store/apps/details?id=com.teamhaco.brickdungeon",
   "min_version_code": 0,
-  "max_version_code": 26,
+  "max_version_code": 27,
   "current": {
     "enabled": true,
     "id": "2026-10-07-balance",
