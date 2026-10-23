@@ -1,6 +1,29 @@
 {
   "notes": [
     {
+      "version": "1.0.31",
+      "version_code": 33,
+      "date": "2026-10-23",
+      "items_ko": [
+        "심층이 15단계로 늘어났어요 — 심층 1~5는 15층, 6~10은 20층, 11~15는 25층까지 클리어해야 해요",
+        "새 보스 '돌꽃의 여왕'(20층) — 돌꽃을 피워 체력을 회복하니 꽃부터 꺾으세요",
+        "최종 보스 '돌의 왕'(25층) — 체력이 절반 아래로 떨어지면 왕관을 소환하고, 왕관이 남아 있는 동안 받는 피해가 절반이 돼요",
+        "심층 11~15 새 규칙 추가, 스킬 포인트 최대 15개",
+        "갈림길이 사라지고, 층 사이에 이벤트가 자동으로 발생해요 (최소 3층마다 1번, 보스층 직전 제외)",
+        "무한 모드는 이제 심층 15를 클리어하면 열려요",
+        "새 업적 '돌의 왕좌' 추가"
+      ],
+      "items_en": [
+        "Depth now goes up to 15 — Depth 1-5 clears at floor 15, 6-10 at floor 20, 11-15 at floor 25",
+        "New boss 'Stone Flower Queen' (floor 20) — she heals from her stone flowers, so cut them down first",
+        "Final boss 'Stone King' (floor 25) — below half HP he summons crowns, and takes half damage while any crown stands",
+        "New rules for Depth 11-15, up to 15 skill points",
+        "The crossroads is gone — events now happen automatically between floors (at least once every 3 floors, never right before a boss)",
+        "Endless mode now unlocks after clearing Depth 15",
+        "New achievement 'Stone Throne'"
+      ]
+    },
+    {
       "version": "1.0.26",
       "version_code": 28,
       "date": "2026-10-14",
