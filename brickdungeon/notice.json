@@ -1,13 +1,13 @@
 {
   "enabled": true,
-  "id": "2026-10-26-update-1.0.33",
+  "id": "2026-10-26-update-1.0.35",
   "title_ko": "새 버전이 나왔어요!",
-  "body_ko": "브릭 던전 새 버전이 나왔습니다.\n\n• 일본어·번체 중국어 지원\n• 심층 15단계 확장 — 20층·25층까지!\n• 새 보스: 돌꽃의 여왕, 최종 보스 돌의 왕\n• 효과 6종 스택형 개편, 상점 개편\n• 층 사이 이벤트 자동 발생\n\n아래 '자세히 보기'를 눌러 스토어에서 업데이트해 주세요.",
+  "body_ko": "브릭 던전 새 버전이 나왔습니다.\n\n• 스토리 추가 — 컷신과 심층 기록, 업적 이야기\n• 출석 보상과 일일 미션\n• 일본어·번체 중국어 지원\n• 심층 15단계, 새 보스 돌꽃의 여왕·돌의 왕\n\n아래 '자세히 보기'를 눌러 스토어에서 업데이트해 주세요.",
   "title_en": "A new version is available!",
-  "body_en": "A new version of Brick Dungeon is out.\n\n• Japanese and Traditional Chinese support\n• Depth expanded to 15 — reach floors 20 and 25!\n• New bosses: Stone Flower Queen and the final Stone King\n• Six effects reworked into stacks, shop rework\n• Events now happen automatically between floors\n\nTap 'More' below to update on the store.",
+  "body_en": "A new version of Brick Dungeon is out.\n\n• The story — cutscenes, depth records and achievement tales\n• Daily check-in rewards and daily missions\n• Japanese and Traditional Chinese support\n• Depth 15 and new bosses: Stone Flower Queen and Stone King\n\nTap 'More' below to update on the store.",
   "url": "https://play.google.com/store/apps/details?id=com.teamhaco.brickdungeon",
   "min_version_code": 0,
-  "max_version_code": 34,
+  "max_version_code": 36,
   "current": {
     "enabled": true,
     "id": "2026-10-07-balance",
